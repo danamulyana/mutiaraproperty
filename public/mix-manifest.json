@@ -1,0 +1,13 @@
+{
+    "/dist/js/app.js": "/dist/js/app.js",
+    "/dist/css/app.css": "/dist/css/app.css",
+    "/dist/images/bg-login-page-dark.svg": "/dist/images/bg-login-page-dark.svg",
+    "/dist/images/bg-login-page.svg": "/dist/images/bg-login-page.svg",
+    "/dist/images/error-illustration.svg": "/dist/images/error-illustration.svg",
+    "/dist/images/illustration.svg": "/dist/images/illustration.svg",
+    "/dist/images/logo.svg": "/dist/images/logo.svg",
+    "/dist/images/map-marker-region.png": "/dist/images/map-marker-region.png",
+    "/dist/images/map-marker.png": "/dist/images/map-marker.png",
+    "/dist/images/phone-illustration.svg": "/dist/images/phone-illustration.svg",
+    "/dist/images/woman-illustration.svg": "/dist/images/woman-illustration.svg"
+}
